@@ -1,3 +1,3 @@
 # DGD203-BaranParkin
 
-///repo for college///
+///repo for university///
