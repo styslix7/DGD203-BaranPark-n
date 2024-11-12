@@ -9,4 +9,4 @@ Repo created for university projects for lecture of DGD203 - Game Programming 1.
 Clone the repository under the [License](#license):
    ```bash
    [https://github.com/styslix7/DGD203-BaranParkin.git]
-   [[https://github.com/styslix7/DGD203-BaranParkin.git](https://github.com/styslix7)]
+   [https://github.com/styslix7/DGD203-BaranParkin.git](https://github.com/styslix7)
