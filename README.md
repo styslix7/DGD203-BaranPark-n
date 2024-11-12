@@ -6,7 +6,7 @@ Repo created for university projects for lecture of DGD203 - Game Programming 1.
 
 [General C# repository](https://github.com/styslix7/CSharp-Repo)
 
-[My account]([https://github.com/styslix7/CSharp-Repo](https://github.com/styslix7))
+[My account]([https://github.com/styslix7/CSharp-Repo](https://github.com/styslix7)
 
 ## Installation
 
