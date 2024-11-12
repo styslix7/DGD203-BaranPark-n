@@ -10,6 +10,6 @@ Repo created by Baran Parkın 2305041025 for university projects for lecture of 
 
 ## Installation
 
-Clone the repository by running the following command in your terminal by following the [License](#license):
+Clone the repository by running the following command in your terminal by following the [License](https://github.com/styslix7/DGD203-BaranParkin/blob/main/License):
 ```bash
 git clone https://github.com/styslix7/DGD203-BaranParkin.git
