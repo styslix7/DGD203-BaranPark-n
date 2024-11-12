@@ -1,0 +1,14 @@
+C:\Users\Tr\Desktop\Repsoto\DGD203.Project.BaranParkin\bin\Debug\net8.0\DGD203.Project.BaranParkin.exe
+C:\Users\Tr\Desktop\Repsoto\DGD203.Project.BaranParkin\bin\Debug\net8.0\DGD203.Project.BaranParkin.deps.json
+C:\Users\Tr\Desktop\Repsoto\DGD203.Project.BaranParkin\bin\Debug\net8.0\DGD203.Project.BaranParkin.runtimeconfig.json
+C:\Users\Tr\Desktop\Repsoto\DGD203.Project.BaranParkin\bin\Debug\net8.0\DGD203.Project.BaranParkin.dll
+C:\Users\Tr\Desktop\Repsoto\DGD203.Project.BaranParkin\bin\Debug\net8.0\DGD203.Project.BaranParkin.pdb
+C:\Users\Tr\Desktop\Repsoto\DGD203.Project.BaranParkin\obj\Debug\net8.0\DGD203.Project.BaranParkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tr\Desktop\Repsoto\DGD203.Project.BaranParkin\obj\Debug\net8.0\DGD203.Project.BaranParkin.AssemblyInfoInputs.cache
+C:\Users\Tr\Desktop\Repsoto\DGD203.Project.BaranParkin\obj\Debug\net8.0\DGD203.Project.BaranParkin.AssemblyInfo.cs
+C:\Users\Tr\Desktop\Repsoto\DGD203.Project.BaranParkin\obj\Debug\net8.0\DGD203.Project.BaranParkin.csproj.CoreCompileInputs.cache
+C:\Users\Tr\Desktop\Repsoto\DGD203.Project.BaranParkin\obj\Debug\net8.0\DGD203.Project.BaranParkin.dll
+C:\Users\Tr\Desktop\Repsoto\DGD203.Project.BaranParkin\obj\Debug\net8.0\refint\DGD203.Project.BaranParkin.dll
+C:\Users\Tr\Desktop\Repsoto\DGD203.Project.BaranParkin\obj\Debug\net8.0\DGD203.Project.BaranParkin.pdb
+C:\Users\Tr\Desktop\Repsoto\DGD203.Project.BaranParkin\obj\Debug\net8.0\DGD203.Project.BaranParkin.genruntimeconfig.cache
+C:\Users\Tr\Desktop\Repsoto\DGD203.Project.BaranParkin\obj\Debug\net8.0\ref\DGD203.Project.BaranParkin.dll
